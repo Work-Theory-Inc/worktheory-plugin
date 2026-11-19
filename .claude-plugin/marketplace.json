@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "worktheory",
+  "description": "Work Theory's plugin, from this repository.",
+  "owner": {
+    "name": "Work Theory",
+    "email": "hello@worktheory.ai"
+  },
+  "plugins": [
+    {
+      "name": "worktheory",
+      "version": "0.1.0",
+      "description": "Work on your projects with the advice of the guides you invited, kept in Work Theory: the project's record, your guides' playbooks, their notes and questions, and saving the decisions you make.",
+      "author": {
+        "name": "Work Theory"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://worktheory.ai"
+    }
+  ]
+}

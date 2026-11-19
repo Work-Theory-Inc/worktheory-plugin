@@ -1,0 +1,14 @@
+{
+  "name": "worktheory",
+  "version": "0.1.0",
+  "description": "Work on your projects with the advice of the guides you invited, kept in Work Theory: the project's record, your guides' playbooks, their notes and questions, and saving the decisions you make.",
+  "author": {
+    "name": "Work Theory",
+    "email": "hello@worktheory.ai",
+    "url": "https://worktheory.ai"
+  },
+  "homepage": "https://worktheory.ai",
+  "license": "LicenseRef-WorkTheory-Plugin",
+  "privacyPolicyUrl": "https://worktheory.ai/privacy",
+  "keywords": ["work theory", "guides", "projects", "playbook", "advice"]
+}

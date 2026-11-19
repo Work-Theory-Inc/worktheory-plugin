@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "worktheory": {
+      "type": "http",
+      "url": "https://api.worktheory.ai/functions/v1/mcp"
+    }
+  }
+}
