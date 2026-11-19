@@ -32,7 +32,7 @@ A Work Theory account, as a client of a project or as a guide. Start at https://
 Work Theory saves only what you or your guides ask your AI to save, in the project you are working on. Who sees
 what is set out in the Privacy Policy: https://worktheory.ai/privacy
 
-## Licence
+## License
 
 You may install and use this plugin with Work Theory, and nothing more. See `LICENSE`. Using Work Theory is
 governed by its Terms of Use: https://worktheory.ai/terms
