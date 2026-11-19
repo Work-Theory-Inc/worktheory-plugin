@@ -30,7 +30,7 @@ Every Work Theory tool takes `skill`: send `guiding/1` in it with each call whil
 - `guides`: the team's guides, each with `guide_id` and name, and `you` for this guide.
 - `review_points`: the topics the team reviews (below), each for every project it guides or, with `project_id`, for one.
 - `team_rules`: the team's older rules, where it still has them (below, under tidying).
-- `projects` and `paused_projects`: the projects the team guides, and those paused until their client pays.
+- `projects` and `paused_projects`: the projects the team guides, and those paused until their client pays. Each project in `projects` has `last_used_by_its_people` (when its clients or members last used Work Theory; empty if never) and `days_used_in_the_last_7`, `you_last_looked` (this guide's last call about it), `shared_with_the_team_since_you_looked` (how many memories), and `waiting_on_you` and `waiting_on_the_project` (open reviews and questions). When the guide asks how their week or their clients are going, answer from these, project by project, then open a project with `project_briefing` when they want its detail.
 - `waiting_on_the_guide`: reviews from projects not yet answered. `answers_from_your_projects`: clients' answers to the team's questions that the guide hasn't seen.
 - `recent_lessons`: the newest playbook entries. `lessons_needing_you`: entries a client's AI flagged as not fitting, or a guide's own correction contradicted, with the reasons and a count and never which project. `lessons_waiting_on_your_guides`, for a team owner: entries that have waited on the team's guides longer than usual.
 - `settled_topics`: topics where the guide approved the last answers; a client's AI offers fewer reviews there.
