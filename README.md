@@ -9,10 +9,11 @@ team's playbook.
 - **The Work Theory connector** (`.mcp.json`): `https://api.worktheory.ai/functions/v1/mcp`. You sign in to it
   with your Work Theory account, by an emailed code. It lists Work Theory's tools: reading a project's briefing,
   searching the guides' advice, saving what you decide, and asking a guide a question.
-- **Two skills** (`skills/`), which say how to use those tools:
+- **One skill**, *Work Theory* (`skills/work-theory/`), which says how to use those tools, for clients and guides
+  alike. It has two parts:
+  - *Guiding*, for guides: see what is waiting, answer clients' questions, and keep the team's playbook.
   - *Working on a project*, for a project's clients and members: work from the project's record and the guides'
     advice, say whose advice was used, and save decisions when you say yes.
-  - *Guiding*, for guides: see what is waiting, answer clients' questions, and keep the team's playbook.
 
 The skills' full text is in this repository. Nothing they do is hidden from you.
 

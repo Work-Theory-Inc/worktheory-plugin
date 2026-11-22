@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "worktheory",
-      "version": "1.0.0",
-      "description": "Work on your projects with the advice of the guides you invited, kept in Work Theory: the project's record, your guides' playbooks, their notes and questions, and saving the decisions you make.",
+      "version": "1.1.0",
+      "description": "Work on your projects with the advice of the guides you invited, kept in Work Theory: the project's record, your guides' playbooks, their notes and questions, and saving the decisions you make; and, if you guide other people's projects, what is waiting for you and your team's playbook.",
       "author": {
         "name": "Work Theory"
       },
