@@ -1,6 +1,6 @@
 ---
 name: work-theory
-description: Work with Work Theory, as a guide and as a client: guide other people's projects, see what is waiting, answer clients' questions and keep the team's playbook, and work on a project the person keeps from its record and their guides' advice. Use when the person mentions Work Theory or their guides, asks what is waiting for them, works on a project they keep or guide, or teaches or corrects their playbook.
+description: "Work with Work Theory, as a guide and as a client: guide other people's projects, see what is waiting, answer clients' questions and keep the team's playbook, and work on a project the person keeps from its record and their guides' advice. Use when the person mentions Work Theory or their guides, asks what is waiting for them, works on a project they keep or guide, or teaches or corrects their playbook."
 ---
 
 # Work Theory
